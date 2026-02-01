@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" height="60" />
+  <h1 align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Hi" width="45" height="45" /> 
+    Hi, I'm Vishal Kumar
+  </h1>
 </p>
-
-<h1 align="center">Hi, I'm Vishal Kumar</h1>
 
 <p align="center">
   <strong>AI & Web Enthusiast | ML & Data-Driven Analyst | Full Stack Developer</strong>
